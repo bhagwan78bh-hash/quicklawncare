@@ -511,6 +511,7 @@
         <a href="credits.html">Photo credits</a>
       </p>
     </div>
+    <script id="_wauldh">var _wau = _wau || []; _wau.push(["small", "3da8zsq7ig", "ldh"]);</script><script async src="//waust.at/s.js"></script>
   </footer>
 
   <script src="script.js"></script>
